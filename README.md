@@ -2,6 +2,11 @@
 
 A modern and user-friendly Resume Builder application that helps users create professional, ATS-friendly resumes with real-time preview and PDF download functionality.
 
+##  Live demo
+- https://resume-builder-project-sepia.vercel.app/
+
+---
+
 ## 🚀 Features
 
 - 📝 Create resumes through an intuitive form interface
