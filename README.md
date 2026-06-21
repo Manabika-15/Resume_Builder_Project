@@ -90,4 +90,5 @@ src/
 
 ### Author
 
-Developed by a Computer Science student passionate about Web Development and building practical solutions.
+Developed by: Manabika Das
+Email: dasmanabika.06@gmail.com
